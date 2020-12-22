@@ -14,7 +14,7 @@
 <p>Added On: {{$message->property_createdOn}}</p>
 <hr>
 
-@component('mail::button', ['url' => 'mailto:realproperty@realesate.lk'])
+@component('mail::button', ['url' => 'mailto:info@synchronltd.net'])
 Reply Message
 @endcomponent
 

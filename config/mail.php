@@ -56,7 +56,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'support@realinvestments.lk'),
+        'address' => env('MAIL_FROM_ADDRESS', 'info@synchronltd.net'),
         'name' => env('MAIL_FROM_NAME', 'Support Center'),
     ],
 

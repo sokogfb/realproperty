@@ -29,7 +29,7 @@ class EmailNotification extends Mailable
      */
     public function build()
     {
-        return $this->subject('New Message - Realproperty.LK')
+        return $this->subject('New Message - Support Center')
                     ->markdown('emails.emailnotification');
     }
 }
