@@ -4,7 +4,7 @@
         </div>
         <span class="container has-text-centered textbox">
             <h1 class="title is-1">BLOG</h1>
-            <div class="title">RealProperty - Leader in Real Estate Business</div>
+            <div class="title">Zed4Rent4Sale</div>
         </span>
     </section>
     <div class="container">

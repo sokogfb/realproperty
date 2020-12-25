@@ -26,7 +26,7 @@
       </form>
     </section>
     <footer class="modal-card-foot is-centered has-text-centered">
-      <p class="subtitle is-7 has-text-centered" style="margin-left: 12%;">Thank you for your report, our staff will look into this report and take further actions. <br> <strong>RealProperty - Leader in Real Estate Business</strong></p>
+      <p class="subtitle is-7 has-text-centered" style="margin-left: 12%;">Thank you for your report, our staff will look into this report and take further actions. <br> <strong>Real Estate Online</strong></p>
     </footer>
   </div>
 </div>

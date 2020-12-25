@@ -1,7 +1,7 @@
 <nav class="navbar is-transparent navcolor">
   <div class="navbar-brand">
-    <a class="navbar-item" href="/">
-        <img src="img/logo.png" width="112" height="28">
+    <a class="navbar-item has-text-white" href="/">
+    Real Estate Online
       </a>
     <div class="navbar-burger burger navcolor" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');"
       data-target="navid">

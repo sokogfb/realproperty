@@ -23,8 +23,8 @@
     <div id="app">
             <div class="container">
                     <div class="is-centered">
-                        <a class="navbar-item is-centered is-horizontal-center" href="/">
-                            <img src="https://bulma.io/images/bulma-logo.png"  width="112" height="28">
+                        <a class="navbar-item is-centered is-horizontal-center has-text-white" href="/">
+                        Real Estate Online
                         </a>
                         <div class="buttons is-centered">
                             @guest
